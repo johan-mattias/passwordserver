@@ -6,4 +6,4 @@ radio.onReceivedNumber(function (receivedNumber) {
 let password = 0
 radio.setGroup(1)
 basic.showIcon(IconNames.Yes)
-password = 999
+password = 9999
